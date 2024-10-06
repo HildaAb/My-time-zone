@@ -1,5 +1,15 @@
+body {
+  width: 600px;
+  padding: 20px 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  color: blueviolet;
+  margin: 30px auto;
+}
 .country {
-  padding: 10ps 20px;
+  padding: 10px 20px;
   margin: 10px;
   font-size: 15px;
+  font-weight: bold;
 }
