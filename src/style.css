@@ -1,3 +1,6 @@
+Body {
+  background: black;
+}
 .box {
   width: 100%;
   padding: 20px;
@@ -32,6 +35,6 @@ a {
 footer {
   text-align: center;
   font-size: 20px;
-  color: rgb(26, 1, 50);
+  color: azure;
   padding-top: 35px;
 }
