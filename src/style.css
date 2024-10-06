@@ -1,11 +1,11 @@
 .box {
-  width: 400px;
+  width: 900px;
   padding: 20px 40px;
   margin: 80px 150px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 20px;
   text-align: center;
-  background-color: rgb(178, 178, 185);
+  background-image: url("watches.jpg");
 }
 h1 {
   color: blueviolet;
@@ -13,7 +13,7 @@ h1 {
 }
 .country {
   padding: 10px 20px;
-  margin: 10px;
+  margin: 20px 10px 50px 10px;
   font-size: 25px;
   font-weight: bold;
   color: rgb(246, 250, 250);
